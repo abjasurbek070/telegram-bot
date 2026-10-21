@@ -1,0 +1,7 @@
+aiogram>=3.17.0
+yt-dlp>=2025.2.19
+python-dotenv>=1.0.1
+aiohttp>=3.11.0
+aiofiles>=24.1.0
+imageio-ffmpeg>=0.6.0
+SpeechRecognition>=3.17.0
